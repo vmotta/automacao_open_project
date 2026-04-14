@@ -1,15 +1,3 @@
----
-title: OpenProject Task Creator
-emoji: 📌
-colorFrom: blue
-colorTo: indigo
-sdk: gradio
-sdk_version: "4.44.0"
-python_version: "3.10"
-app_file: app.py
-pinned: false
----
-
 # OpenProject Task Creator (Hugging Face Spaces + Gradio)
 
 Aplicativo em Python com Gradio para colar um texto livre, extrair informações estruturadas da tarefa e criar um **Work Package** no **OpenProject API v3**.
